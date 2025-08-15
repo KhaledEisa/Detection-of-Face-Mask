@@ -151,10 +151,7 @@ Built-in augmentation includes:
 ```
 Detection-of-Face-Mask/
 ├── face_mask_detection_notebook.ipynb  # Main training notebook
-├── simple_inference.py                 # Standalone inference script
-├── requirements.txt                    # Python dependencies
 ├── README.md                           # This file
-├── START_HERE.md                       # Quick start guide
 └── .git/                              # Git repository
 ```
 
