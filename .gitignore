@@ -1,0 +1,62 @@
+# Model files (too large for GitHub)
+*.h5
+*.hdf5
+*.pb
+*.ckpt
+*.weights
+
+# Training outputs
+training_history.png
+*_training_history.png
+confusion_matrix.png
+*_confusion_matrix.png
+model_architecture.png
+*.csv
+training_log.csv
+*_training_log.csv
+
+# Dataset files (too large)
+processed_dataset/
+dataset/
+data/
+images/
+*.zip
+*.tar.gz
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Screenshots and results
+*_result_*.jpg
+*_result_*.png
+detection_result_*.jpg
+simple_result_*.jpg
+
+# Temporary files
+*.tmp
+*.temp
+temp/ 

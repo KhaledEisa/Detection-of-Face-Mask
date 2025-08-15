@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🎭 3-Class Face Mask Detection System
 
 A comprehensive deep learning system for detecting face mask compliance with **3 classes**: *With Mask*, *Without Mask*, and *Mask Worn Incorrectly*.
@@ -278,7 +277,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 **Built with ❤️ for public health and safety**
 
 *For questions or issues, please open a GitHub issue or contact the maintainers.*
-=======
-# Detection of Face Mask
-Face Mask Detection
->>>>>>> parent of 0beb86d (Project Upload)
