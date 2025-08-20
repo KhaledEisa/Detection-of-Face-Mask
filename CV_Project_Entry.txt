@@ -1,0 +1,11 @@
+  \resumeSubheading
+      {3-Class Face Mask Detection System}{November 2024 -- December 2024}
+      {Computer Vision, Deep Learning, Transfer Learning}{Python, TensorFlow, OpenCV, Jupyter Notebook}
+      \resumeSubHeadingList
+          \resumeItem{\textbullet\ Developed an intelligent AI system capable of detecting correctly worn masks, incorrectly worn masks, and no masks using deep learning}
+          \resumeItem{\textbullet\ Implemented transfer learning with EfficientNet, ResNet50V2, and MobileNetV3 architectures, achieving 85-95\% classification accuracy}
+          \resumeItem{\textbullet\ Processed and trained on a balanced dataset of 17,964 images (5,988 per class) with comprehensive data augmentation techniques}
+          \resumeItem{\textbullet\ Built real-time webcam detection system with color-coded results for immediate mask compliance feedback}
+          \resumeItem{\textbullet\ Created interactive Jupyter notebook with automated dataset analysis, model evaluation, and performance visualization}
+          \resumeItem{\textbullet\ Engineered robust error handling with CNN fallback architecture and automatic class balancing for imbalanced datasets}
+      \resumeSubHeadingListEnd 
